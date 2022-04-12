@@ -15,19 +15,16 @@ let username = conn.getName(who)
 //let vn = './media/mariana.mp3'
 let menu =`
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
-║═ *𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭*
+║═  *SexIxi-Bot*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: Bruno Sobrino* 
-║➤ *Numero del creador:* *wa.me/5219992095479 (No Bot)*
+║➤ *Creador del Bot:  Sex-IXI
+║➤ *Numero del creador:* *wa.me/1(604)245-2851*
 ║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
-║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-╰══╡✯✯✯✯✯✯✯✯╞══╯
-┏━━━━━━━━━━━━━┓
+║➤ *Numero del Bot oficial:* *wa.me/525583274312*
+║
+╰═
 ┃ *<INFORMACIÓN|MENUS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟ℹ️️ _${usedPrefix}sc_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
@@ -38,70 +35,35 @@ let menu =`
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}labiblia_
 ┣ ඬ⃟ℹ️ _${usedPrefix}estado_
-┣ ඬ⃟ℹ️ _Bot_
-┣ ඬ⃟ℹ️ _¿Qué es un Bot?_
-┣ ඬ⃟ℹ️ _Codigos para audios_
-┣ ඬ⃟ℹ️ _Términos y condiciones_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗━━━
 ┃ *<REPORTA FALLOS EN ALGÚN COMANDO/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ Reporta cualquier comando que falle para poder solucionarlo
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟📬 _${usedPrefix}bug *comando con fallas*_
 ┣ ඬ⃟📬 _${usedPrefix}report *comando con fallas*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗━━━
 ┃ *<UNE UN BOT A TU GRUPO/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🤖 _${usedPrefix}join *link del grupo*_ 
 ┣ ඬ⃟🤖 _${usedPrefix}bots_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗━━━━
+
 ┃ *<TOPS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🎖️ _${usedPrefix}top10gays_
 ┣ ඬ⃟🎖️ _${usedPrefix}toplind@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}topput@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗━━
+
 ┃ *<NUMERO DEL CREADOR/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟👻 _${usedPrefix}owner_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<JUEGOS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🕹 _${usedPrefix}math *modo*_
-┣ ඬ⃟🎮 _${usedPrefix}ttt *nombre del la sala*_
-┣ ඬ⃟🕹 _${usedPrefix}delttt *nombre del la sala*_
-┣ ඬ⃟🎮 _${usedPrefix}2gay *@tag*_
-┣ ඬ⃟🕹 _${usedPrefix}gay *@tag / nombre*_
-┣ ඬ⃟🎮 _${usedPrefix}lesbi *@tag / nombre*_
-┣ ඬ⃟🕹 _${usedPrefix}pajero *@tag / nombre*_
-┣ ඬ⃟🎮 _${usedPrefix}pajera *@tag / nombre*_
-┣ ඬ⃟🕹 _${usedPrefix}puta *@tag / nombre*_
-┣ ඬ⃟🎮 _${usedPrefix}puto *@tag / nombre*_
-┣ ඬ⃟🕹 _${usedPrefix}rata *@tag / nombre*_
-┣ ඬ⃟🎮 _${usedPrefix}manco *@tag / nombre*_
-┣ ඬ⃟🕹 _${usedPrefix}manca *@tag / nombre*_
-┣ ඬ⃟🎮 _${usedPrefix}formarpareja_
-┣ ඬ⃟🕹 _${usedPrefix}dado_
-┣ ඬ⃟🎮 _${usedPrefix}simsimi *texto*_
-┣ ඬ⃟🕹 _${usedPrefix}formartrio_
-┣ ඬ⃟🎮 _${usedPrefix}love *@tag / nombre*_
-┣ ඬ⃟🕹 _${usedPrefix}amigorandom_
-┣ ඬ⃟🎮 _${usedPrefix}slot *cantidad*_
-┣ ඬ⃟🕹 _${usedPrefix}ppt *piedra / papel / tijera*_
-┣ ඬ⃟🎮 _${usedPrefix}prostituta *@tag / nombre*_
-┣ ඬ⃟🕹 _${usedPrefix}prostituto *@tag / nombre*_
-┣ ඬ⃟🎮 _${usedPrefix}doxear *@tag / nombre*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗━━
+
+
+┏
 ┃ *<DESCARGAS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟📥 _${usedPrefix}imagen *texto*_
 ┣ ඬ⃟📥 _${usedPrefix}ytsearch *texto*_
 ┣ ඬ⃟📥 _${usedPrefix}dlaudio *link yt*_
@@ -130,10 +92,9 @@ let menu =`
 ┣ ඬ⃟📥 _${usedPrefix}igstalk *username*_
 ┣ ඬ⃟📥 _${usedPrefix}animeinfo *nombre del anime*_
 ┣ ඬ⃟📥 _${usedPrefix}twvid *link de video de twitter*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗
+
 ┃ *<GESTION DE GRUPOS/>* 
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟💎 _${usedPrefix}admins *texto*_ 
 ┣ ඬ⃟💎 _${usedPrefix}añadir *numero*_ 
 ┣ ඬ⃟💎 _${usedPrefix}sacar @tag_
@@ -159,10 +120,9 @@ let menu =`
 ┣ ඬ⃟💎 _${usedPrefix}fantasmas_
 ┣ ඬ⃟💎 _${usedPrefix}banchat_
 ┣ ඬ⃟💎 _${usedPrefix}unbanchat_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+
+
 ┃ *<CREADORES/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🧧 _${usedPrefix}s_
 ┣ ඬ⃟🧧 _${usedPrefix}sticker_
 ┣ ඬ⃟🧧 _${usedPrefix}semoji_
@@ -184,8 +144,8 @@ let menu =`
 ┣ ඬ⃟🧧 _${usedPrefix}swm *link de imagen de google*_
 ┣ ඬ⃟🧧 _${usedPrefix}gif *responde a un sticker/video*_
 ┣ ඬ⃟🧧 _${usedPrefix}tovideo *responde a una nota de voz*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗━━
+
 ┃ *<RANDOM|EXTRAS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟👾 _${usedPrefix}frase_
@@ -232,20 +192,15 @@ let menu =`
 ┣ ඬ⃟👾 _${usedPrefix}spamwa *numero|texto|cantidad*_
 ┣ ඬ⃟👾 _${usedPrefix}readqr *responde a un código QR*_
 ┣ ඬ⃟👾 _${usedPrefix}anime *random / waifu / husbu /neko*_
-┣ ඬ⃟👾 _${usedPrefix}subirestado *texto / responder video, imagen o gif*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┣ ඬ⃟👾 _${usedPrefix}subirestado_
+┗
+┏
 ┃ *<COMANDOS +18/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃ Usar bajo su responsabilidad 
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🔞 _${usedPrefix}labiblia_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┣ ඬ⃟🔞 _${usedPrefix}labiblia
+┗
+┏━━━
 ┃ *<EFECTOS PARA NOTAS DE VOZ O AUDIOS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ Responde a un audio o nota de voz
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🎤 _${usedPrefix}bass_
 ┣ ඬ⃟🎤 _${usedPrefix}deep_
 ┣ ඬ⃟🎤 _${usedPrefix}earrape_
@@ -257,59 +212,16 @@ let menu =`
 ┣ ඬ⃟🎤 _${usedPrefix}slow_
 ┣ ඬ⃟🎤 _${usedPrefix}smooth_
 ┣ ඬ⃟🎤 _${usedPrefix}vibracion *cantidad*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗
+┏━━━━━━
 ┃ *<AUDIOS/>* 
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🔊 _${usedPrefix}menu2_
 ┣ ඬ⃟🔊 _${usedPrefix}menuaudios_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<CHAT ANONIMO/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟📳 _${usedPrefix}start_
-┣ ඬ⃟📳 _${usedPrefix}next_
-┣ ඬ⃟📳 _${usedPrefix}leave_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<CONVIERTETE EN BOT/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🏷 _${usedPrefix}stop_
-┣ ඬ⃟🏷 _${usedPrefix}jadibot_
-┣ ඬ⃟🏷 _${usedPrefix}getcode_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<LOGOS PERSONALIZADOS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟📝️ _${usedPrefix}logos_ (lista)
-┣ ඬ⃟📝️ _${usedPrefix}lolice_
-┣ ඬ⃟📝️ _${usedPrefix}simpcard_
-┣ ඬ⃟📝️ _${usedPrefix}hornycard_ 
-┣ ඬ⃟📝️ _${usedPrefix}lblackpink_
-┣ ඬ⃟📝️ _${usedPrefix}coffe *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}tahta *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}nulis *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}nulis2 *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}lolice *@tag*_
-┣ ඬ⃟📝️ _${usedPrefix}simpcard *@tag*_
-┣ ඬ⃟📝️ _${usedPrefix}logotaza *texto*_ 
-┣ ඬ⃟📝️ _${usedPrefix}logocesped *texto*_ 
-┣ ඬ⃟📝️ _${usedPrefix}logotaza2 *texto*_ 
-┣ ඬ⃟📝️ _${usedPrefix}flaming *texto*_ 
-┣ ඬ⃟📝️ _${usedPrefix}logofire *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}logosky *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}logocorazon *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}logorandom *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}neonfire *texto*_ 
-┣ ඬ⃟📝️ _${usedPrefix}technology *texto*_ 
-┣ ඬ⃟📝️ _${usedPrefix}playa *texto*_ 
-┣ ඬ⃟📝️ _${usedPrefix}ytcomment *texto*_ 
-┣ ඬ⃟📝️ _${usedPrefix}lovemessages *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}cementerio *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}romanticdouble *texto*_
-┣ ඬ⃟📝️ _${usedPrefix}romanticmessages *texto*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
+┗━━━━━
+
+┏━
+┗━
+┏━━
 ┃ *<PROPIETARO DEL BOT/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟👑 _${usedPrefix}boost_
